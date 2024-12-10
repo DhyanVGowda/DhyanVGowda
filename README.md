@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/DhyanVGowda/DhyanVGowda/master/intro.gif" alt="👋 Hi there! I'm Dhyan Vasudeva Gowda" title="👋 Hi there! I'm Dhyan Vasudeva Gowda"/>](https://www.linkedin.com/in/dhyan-v-gowda/)
+[<img src="https://raw.githubusercontent.com/DhyanVGowda/DhyanVGowda/master/Dhyan1.gif" alt="👋 Hi there! I'm Dhyan Vasudeva Gowda" title="👋 Hi there! I'm Dhyan Vasudeva Gowda"/>](https://www.linkedin.com/in/dhyan-v-gowda/)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=DhyanVGowda.DhyanVGowda&color=00cf00)
 <!--
