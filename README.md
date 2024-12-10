@@ -23,16 +23,11 @@ Here are some ideas to get you started:
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  pronouns: "he" | "him",
+  code: [Python, Java, C, C++, HTML, CSS, JavaScript],
+  tools: [Node.js, Flask, React.js, Streamlit, Docker],
+  DataBases: ["MySQL", "MongoDB"],
+  Certifications: "Python Data Structures", "Web Development Bootcamp"
 }
 ```
 
