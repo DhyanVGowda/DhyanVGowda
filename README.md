@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 - 💼 Graduate Computer Science Student 𝚊𝚝 [<img src="https://raw.githubusercontent.com/DhyanVGowda/DhyanVGowda/main/IIT.gif" height="30em" width="100px" align="center" alt="IIT" title="IIT"/>](https://github.com/DhyanVGowda/DhyanVGowda/blob/main/IIT.gif)
-- 🎓Bachelor's Computer Science from JSS Science and Technology University, class of 2023
+- 🎓Bachelor's Computer Science from [<img src="https://raw.githubusercontent.com/DhyanVGowda/DhyanVGowda/main/JSSSTU.gif" height="30em" width="100px" align="center" alt="JSSSTU" title="JSSSTU"/>](https://github.com/DhyanVGowda/DhyanVGowda/blob/main/JSSSTU.gif), class of 2023
 - 🌐 You can access all my projects here on GitHub <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## Code, Tools, and Me! 
 
 ```javascript
 const thai = {
