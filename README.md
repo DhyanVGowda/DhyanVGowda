@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/DhyanVGowda/DhyanVGowda/master/intro.gif" alt="👋 Hi there! I'm (Dhyan(VGowda|nd VasudevaGowda)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/DhyanVGowda/DhyanVGowda/master/intro.gif" alt="👋 Hi there! I'm (Dhyan(VGowda|nd VasudevaGowda)|www.linkedin.com/in/dhyan-v-gowda)" title="👋 Hi there! I'm (Dhyan(VGowda|nd VasudevaGowda)|www.linkedin.com/in/dhyan-v-gowda)"/>](www.linkedin.com/in/dhyan-v-gowda)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
 <!--
