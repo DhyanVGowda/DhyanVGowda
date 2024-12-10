@@ -1,11 +1,10 @@
-[<img src="https://raw.githubusercontent.com/DhyanVGowda/DhyanVGowda/master/intro.gif" alt="👋 Hi there! I'm (Dhyan(VGowda|nd VasudevaGowda)|www.linkedin.com/in/dhyan-v-gowda)" title="👋 Hi there! I'm (Dhyan(VGowda|nd VasudevaGowda)|www.linkedin.com/in/dhyan-v-gowda)"/>](www.linkedin.com/in/dhyan-v-gowda)
+[<img src="https://raw.githubusercontent.com/DhyanVGowda/DhyanVGowda/master/intro.gif" alt="👋 Hi there! I'm Dhyan Vasudeva Gowda" title="👋 Hi there! I'm Dhyan Vasudeva Gowda"/>](https://www.linkedin.com/in/dhyan-v-gowda/)
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=DhyanVGowda.DhyanVGowda&color=00cf00)
 <!--
-**Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DhyanVGowda/DhyanVGowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
