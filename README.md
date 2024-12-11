@@ -47,3 +47,4 @@ Dhyan = {
   </a>
 </div>
 
+[![animation](https://raw.githubusercontent.com/DhyanVGowda/DhyanVGowda/master/desktop-animation2.gif)](https://www.linkedin.com/in/dhyan-v-gowda/)
