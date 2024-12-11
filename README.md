@@ -47,4 +47,4 @@ Dhyan = {
   </a>
 </div>
 
-[![animation](https://raw.githubusercontent.com/DhyanVGowda/DhyanVGowda/master/desktop-animation2.gif)](https://www.linkedin.com/in/dhyan-v-gowda/)
+[<img src="https://raw.githubusercontent.com/DhyanVGowda/DhyanVGowda/master/desktop-animation2.gif" alt="animation" style="width: 100%; height: 10%;"/>](https://www.linkedin.com/in/dhyan-v-gowda/)
